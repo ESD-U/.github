@@ -1,9 +1,10 @@
-![logo](https://github.com/ESD-U/.github/blob/main/profile/file/logo.png?raw=true)
+<img src="https://github.com/ESD-U/.github/blob/main/profile/file/logo.png?raw=true" alt="logo" align="center"/>
 
 # ESD-Ubiquitous
 
 ```markdown
-이 ESD-U 프로젝트는 “ESD실을 유비쿼터스의 세상으로 만들어보자”라는 생각으로 진행하게 된 프로젝트이다. ESD실의 전등과 같은 하드웨어들을 앱을 이용해 조작할 수 있는 기능들을 제공한다.
+이 ESD-U 프로젝트는 “ESD실을 유비쿼터스의 세상으로 만들어보자”라는 생각으로 진행하게 된 프로젝트이다.
+ESD실의 전등과 같은 하드웨어들을 앱을 이용해 조작할 수 있는 기능들을 제공한다.
 ```
 
 - **Function**
