@@ -1,4 +1,4 @@
-<img src="../profile/file/logo.png" alt="logo"  />
+![logo](https://github.com/ESD-U/.github/blob/main/profile/file/logo.png?raw=true)
 
 # ESD-Ubiquitous
 
