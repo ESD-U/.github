@@ -1,4 +1,4 @@
-<img src="../profile/file/logo.svg" alt="logo" style="zoom: 50%;" />
+<img src="../profile/file/logo.png" alt="logo"  />
 
 # ESD-Ubiquitous
 
