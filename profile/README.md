@@ -1,5 +1,3 @@
-<img src="https://github.com/ESD-U/.github/blob/main/profile/file/logo.png?raw=true" alt="logo" align="center"/>
-
 # ESD-Ubiquitous
 
 ```markdown
