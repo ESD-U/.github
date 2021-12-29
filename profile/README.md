@@ -8,7 +8,7 @@ ESD실의 전등과 같은 하드웨어들을 앱을 이용해 조작할 수 있
 - **Function**
 
 ```markdown
-ESD실의 💡전등, ESD실의 📊온습도, ESD실 실시간 📹스트리밍
+ESD실의 💡전등, ESD실의 📊온습도
 ```
 
 - **Server**
